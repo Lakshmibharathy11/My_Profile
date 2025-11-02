@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lakshmi Bharathy Kumar  
 
-🎓 **Master’s student in Data Analytics at San Jose State University**  
+🎓 **Master’s student in Applied Data Intelligence at San Jose State University**  
 💡 Passionate about **AI/ML research and development**, with a focus on building efficient, practical, and responsible intelligent systems.  
 🔍 Seeking opportunities in **AI/ML Engineer** and **Research Intern** roles.  
 
@@ -8,7 +8,7 @@
 
 ## 🎓 Education  
 
-**M.S. Data Analytics, San Jose State University, CA (Aug 2024 – May 2026, expected)**  
+**M.S. Applied Data Intelligence, San Jose State University, CA (Aug 2024 – May 2026, expected)**  
 - Coursework: Machine Learning, Deep Learning, GenAI, Big Data Analytics, Database Systems  
 - **Graduate Thesis (Advisor: Dr. Guannan Liu; Committee: Dr. Mohammad Masum, Dr. Yue Luo):**  
   Developing a multimodal eye-tracking model for robust intent prediction by fusing gaze, fixation, and eye-image features, with emphasis on interpretability and **Human–Computer Interaction (HCI)**.  
@@ -21,7 +21,36 @@
 
 🔹 **Graduate Thesis (Ongoing)**  
 - Multimodal eye-tracking model for intent prediction (gaze, fixation, eye-image fusion).  
-- Focus on interpretability & hands-free HCI for accessibility.  
+- Focus on interpretability & hands-free HCI for accessibility.
+
+-🔹 **Airbnb-Style Distributed Platform - React • Node.js • MySQL • FastAPI • LangChain**
+- Coordinated four-tier system design and integration of AI Travel Concierge Agent;
+- Delivered project under time and scope constraints via structured Agile sprints.
+➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Distributesd_systems_lab1)
+
+🔹 **Kafka Multi-Agent Pipeline — Python • LangChain • Kafka**  
+- Deployed 3-agent (Planner, Writer, Reviewer) workfl ow communicating through Kafka topics for asynchronous automation.
+- Verifi ed end-to-end workfl ow robustness and fault-tolerant message passing in distributed setup.
+➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Kafka-Multi-Agent-System---LangChain-Kafka)
+
+🔹 **AI Memory System - FastAPI + MongoDB + Ollama LLM**
+ - Implemented REST API simulating short-term and episodic memory for local LLM retrieval.
+ - Enabled cosine-similarity search on vector embeddings for contextual memory retrieval in RAG pipelines.
+➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/AI-Memory-System---FastAPI-MongoDB-Ollama-LLM)
+ 
+🔹 **Blind Super-Resolution GAN Pipeline(Ongoing project)**
+- Developed a deep learning–based Super-Resolution pipeline combining standard benchmark datasets (DIV2K) with a professor-provided paired LR/HR dataset to enhance image quality degraded by Gaussian blur, noise, and compression.
+- Proposed a novel hybrid architecture integrating convolutional and transformer-based modules to balance local texture restoration and global context modeling — improving robustness and generalization under complex real-world degradations.
+➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Hybrid_Super_Resolution_Architecture)
+
+🔹 **xLSTM-CBCT Dose Prediction Model - Proton Therapy Research**
+- Optimized xLSTM encoder–decoder for 3D CBCT→dose prediction with < 3 % error vs Monte Carlo reference.
+- Integrated energy-token embeddings for physics-aware sequence learning and beam energy conditioning.
+➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/xLSTM-CBCT-Dose-Prediction-Model---Proton-Therapy-Research)
+
+🔹 **Distributed User Management System - Node.js • React • MySQL • Docker • AWS ECS**
+- Planned and executed a full-stack CRUD platform with containerized deployment; managed end-to-end API validation and release timelines under defined sprint cycles, ensuring seamless integration, scalability, and on-time feature delivery.
+➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Distributed-User-Management-System---Node.js-React-MySQL-Docker-AWS-ECS)
 
 🔹 **Real-Time Harmful Image Detection (MobileNetV2 + Kafka)**  
 - Edge-aware image classification (**83.5% accuracy**, <300ms latency).  
