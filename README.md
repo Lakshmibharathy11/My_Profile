@@ -26,66 +26,83 @@
 -🔹 **Airbnb-Style Distributed Platform - React • Node.js • MySQL • FastAPI • LangChain**
 - Coordinated four-tier system design and integration of AI Travel Concierge Agent;
 - Delivered project under time and scope constraints via structured Agile sprints.
+
 ➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Distributesd_systems_lab1)
 
 🔹 **Kafka Multi-Agent Pipeline — Python • LangChain • Kafka**  
 - Deployed 3-agent (Planner, Writer, Reviewer) workfl ow communicating through Kafka topics for asynchronous automation.
 - Verifi ed end-to-end workfl ow robustness and fault-tolerant message passing in distributed setup.
+
 ➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Kafka-Multi-Agent-System---LangChain-Kafka)
 
 🔹 **AI Memory System - FastAPI + MongoDB + Ollama LLM**
  - Implemented REST API simulating short-term and episodic memory for local LLM retrieval.
  - Enabled cosine-similarity search on vector embeddings for contextual memory retrieval in RAG pipelines.
+
 ➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/AI-Memory-System---FastAPI-MongoDB-Ollama-LLM)
  
 🔹 **Blind Super-Resolution GAN Pipeline(Ongoing project)**
 - Developed a deep learning–based Super-Resolution pipeline combining standard benchmark datasets (DIV2K) with a professor-provided paired LR/HR dataset to enhance image quality degraded by Gaussian blur, noise, and compression.
 - Proposed a novel hybrid architecture integrating convolutional and transformer-based modules to balance local texture restoration and global context modeling — improving robustness and generalization under complex real-world degradations.
+
 ➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Hybrid_Super_Resolution_Architecture)
 
 🔹 **xLSTM-CBCT Dose Prediction Model - Proton Therapy Research**
 - Optimized xLSTM encoder–decoder for 3D CBCT→dose prediction with < 3 % error vs Monte Carlo reference.
 - Integrated energy-token embeddings for physics-aware sequence learning and beam energy conditioning.
+
 ➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/xLSTM-CBCT-Dose-Prediction-Model---Proton-Therapy-Research)
 
 🔹 **Distributed User Management System - Node.js • React • MySQL • Docker • AWS ECS**
 - Planned and executed a full-stack CRUD platform with containerized deployment; managed end-to-end API validation and release timelines under defined sprint cycles, ensuring seamless integration, scalability, and on-time feature delivery.
+
 ➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Distributed-User-Management-System---Node.js-React-MySQL-Docker-AWS-ECS)
 
 🔹 **Real-Time Harmful Image Detection (MobileNetV2 + Kafka)**  
 - Edge-aware image classification (**83.5% accuracy**, <300ms latency).  
 - Scalable Kafka-based deployment for real-time content moderation.  
+
 ➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Image_classification) 
 
 🔹 **Smart Meal Recommender (Plate Planner)**  
 - On-device system integrating **CoreML (food detection)**, **GPT (recipe generation)**, and **Neo4j (substitutions)**.  
 - Demonstrated low-latency, personalized meal planning for nutrition & waste reduction.  
+
 ➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/plate-planner-api-main)  
 
 🔹 **Tesla Stock Forecasting with Sentiment Analysis**  
 - End-to-end pipeline combining **Twitter sentiment (VADER)** with Tesla stock data.  
 - Built using **Airflow, Snowflake, dbt**; predictive insights on short-term price movements.  
+
 ➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Elon_musk-s_tweet_impact)  
 
 🔹 **Real-Time Salary Predictor**  
 - Regression model (**R² = 0.62**) using multi-year Stack Overflow data.  
 - Interactive **Power BI dashboard** for real-time salary insights.  
+
 ➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Salary-Prediction)  
 
 🔹 **AI-Powered SaaS Ticket Triage (In Progress)**  
 - Deep learning pipeline for SaaS ticket classification with **LangChain, FastAPI, n8n**.  
 - Exploring workflow automation for scalable ML-driven support systems.  
+
 ➡️ [GitHub Repo](#)  
 
 ---
 
 ## 💼 Professional Experience  
 
-**Marketing Analyst / SEO Specialist**  
-Repunext, Chennai, India | *Jun 2020 – Dec 2022*  
-Web Digital Mantra, Bangalore, India | *Jan 2018 – Feb 2020*  
-- Conducted keyword research, market analysis, and content optimization using **SEMrush, Ubersuggest, Google Analytics/Trends**, improving rankings by **10–12%** and conversion rates by **15%**.  
-- Automated reporting with **Python & SQL**; built **Tableau dashboards** improving client ROI by **15%** and engagement by **10–12%**. Also authored technical blogs and collaborated with cross-functional teams.  
+**SEO Specialist**  
+ **Repunext, Chennai, India | Jun 2020 – Dec 2022**  
+- Directed website-performance optimization programs with engineering + marketing teams; raised organic traffi c 12% and conversion rate 15 %.
+- Automated reporting and KPI dashboards using Python and SQL; cut manual report prep time by 30%.
+- Coordinated monthly client reviews, aligning roadmaps, budgets, and feature priorities across teams. • Authored technical content for ads and blogs to improve SEO health and product visibility by 10%.
+
+**SEO Analyst** 
+**Web Digital Mantra, Bangalore, India | Jan 2018 – Feb 2020** 
+- Managed data-driven keyword strategy and Google Analytics reporting to enhance client rankings 10 – 12%.
+- Built Excel/Tableau dashboards to visualize traffi c KPIs for leadership; improved decision speed by 25%. 
+- Served as technical liaison between clients and developers, resolving site issues and improving crawl effi ciency.
 
 ---
 
