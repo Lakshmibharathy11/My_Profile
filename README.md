@@ -23,7 +23,7 @@
 - Multimodal eye-tracking model for intent prediction (gaze, fixation, eye-image fusion).  
 - Focus on interpretability & hands-free HCI for accessibility.
 
--🔹 **Airbnb-Style Distributed Platform - React • Node.js • MySQL • FastAPI • LangChain**
+🔹 **Airbnb-Style Distributed Platform - React • Node.js • MySQL • FastAPI • LangChain**
 - Coordinated four-tier system design and integration of AI Travel Concierge Agent;
 - Delivered project under time and scope constraints via structured Agile sprints.
 
