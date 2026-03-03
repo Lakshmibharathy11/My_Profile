@@ -74,7 +74,7 @@
 - End-to-end pipeline combining **Twitter sentiment (VADER)** with Tesla stock data.  
 - Built using **Airflow, Snowflake, dbt**; predictive insights on short-term price movements.  
 
-➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Elon_musk-s_tweet_impact)  
+➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Tesla_stock_sentiment_analysis)  
 
 🔹 **Real-Time Salary Predictor**  
 - Regression model (**R² = 0.62**) using multi-year Stack Overflow data.  
