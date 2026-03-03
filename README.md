@@ -29,6 +29,12 @@
 
 ➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Distributesd_systems_lab1)
 
+🔹 **Kayak-Style Distributed Travel System | FastAPI, Kafka, MySQL, MongoDB, Redis, LangChain, AWS**
+- Built a microservices-based travel booking platform with event-driven communication using Kafka and containerized deployment via Docker.
+- Integrated an LLM-powered AI concierge for deal scoring and personalized travel recommendations.
+
+➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Kayak_style_full_stack_development)
+
 🔹 **Kafka Multi-Agent Pipeline — Python • LangChain • Kafka**  
 - Deployed 3-agent (Planner, Writer, Reviewer) workfl ow communicating through Kafka topics for asynchronous automation.
 - Verifi ed end-to-end workfl ow robustness and fault-tolerant message passing in distributed setup.
