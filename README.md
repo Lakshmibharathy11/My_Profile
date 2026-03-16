@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Lakshmi Bharathy Kumar  
 
-🎓 **Master’s student in Applied Data Intelligence at San Jose State University**  
-💡 Passionate about **AI/ML research and development**, with a focus on building efficient, practical, and responsible intelligent systems.  
-🔍 Seeking opportunities in **AI/ML Engineer** and **Research Intern** roles.  
-
+Data Science graduate student at San José State University, focused on machine learning, analytics, and AI-driven solutions. I build projects in Python, SQL, deep learning, and data visualization, with interests in predictive modeling and intelligent systems.
 ---
 
 ## 🎓 Education  
@@ -100,18 +97,13 @@
 
 **SEO Specialist**  
  **Repunext, Chennai, India | Jun 2020 – Dec 2022**  
-- Directed website-performance optimization programs with engineering + marketing teams; raised organic traffi c 12% and conversion rate 15 %.
-- Automated reporting and KPI dashboards using Python and SQL; cut manual report prep time by 30%.
-- Coordinated monthly client reviews, aligning roadmaps, budgets, and feature priorities across teams. • Authored technical content for ads and blogs to improve SEO health and product visibility by 10%.
-
-**SEO Analyst** 
-**Web Digital Mantra, Bangalore, India | Jan 2018 – Feb 2020** 
-- Managed data-driven keyword strategy and Google Analytics reporting to enhance client rankings 10 – 12%.
-- Built Excel/Tableau dashboards to visualize traffi c KPIs for leadership; improved decision speed by 25%. 
-- Served as technical liaison between clients and developers, resolving site issues and improving crawl effi ciency.
+  - Worked cross-functionally to improve website performance using analytics, SEO insights, and data-informed content strategy.
+  - Collaborated with engineering, product, and design teams on SEO-focused website optimization
+  - Analyzed Google Analytics data to identify user drop-off patterns, contributing to a 25% increase in organic traffic
+  - Developed data-informed content strategies using performance and engagement insights
+  - Communicated website metrics and recommendations to stakeholders, aligning insights with business goals.
 
 ---
-
 ## ⚙️ Tech Stack  
 
 **Languages & Frameworks**  
