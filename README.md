@@ -8,18 +8,18 @@ Data Science graduate student at San José State University, focused on machine 
 
 **M.S. Applied Data Intelligence, San Jose State University, CA (Aug 2024 – May 2026, expected)**  
 - Coursework: Machine Learning, Deep Learning, GenAI, Big Data Analytics, Database Systems  
-- **Graduate Thesis (Advisor: Dr. Guannan Liu; Committee: Dr. Mohammad Masum, Dr. Yue Luo):**  
-  Developing a multimodal eye-tracking model for robust intent prediction by fusing gaze, fixation, and eye-image features, with emphasis on interpretability and **Human–Computer Interaction (HCI)**.  
-
+ 
 **B.E. Electronics & Communication, Saranathan College of Engineering, India (May 2014)**  
-
 ---
 
 ## 🧪 Research & Academic Projects  
 
 🔹 **Graduate Thesis (Ongoing)**  
-- Multimodal eye-tracking model for intent prediction (gaze, fixation, eye-image fusion).  
-- Focus on interpretability & hands-free HCI for accessibility.
+- Designing and evaluating machine learning and deep learning models to predict directional intent from eye-tracking
+data for autonomous control applications.
+- Conducting rigorous evaluation using accuracy, precision, recall, F1-score, and confusion matrix on held-out test
+data under both user-dependent and leave-one-user-out (LOUO) validation settings to analyze cross-user general
+ization and feature robustness.
 
 🔹 **Airbnb-Style Distributed Platform - React • Node.js • MySQL • FastAPI • LangChain**
 - Coordinated four-tier system design and integration of AI Travel Concierge Agent;
