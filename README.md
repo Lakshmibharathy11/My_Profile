@@ -69,6 +69,7 @@ ization and feature robustness.
 class imbalance through targeted sampling and ImageNet-standardized preprocessing.
 - Built and deployed a MobileNetV2-based classifier via Kafka streaming, achieving 83.5% accuracy, 0.92
 ROC-AUC, and 300ms latency on CPU for real-time safety monitoring
+
 ➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Image_classification) 
 
 🔹 **Smart Meal Recommender (Plate Planner)**  
@@ -82,6 +83,7 @@ ROC-AUC, and 300ms latency on CPU for real-time safety monitoring
 including weighted sentiment scores derived from 50k+ social media records.
 - Developed a Linear Regression model achieving a 0.91 R2 score, automating raw signal-to-feature transformations
 and resolving 80% of decision-latency in sentiment-driven trading strategies.
+
 ➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Tesla_stock_sentiment_analysis)  
 
 🔹 **Real-Time Salary Predictor**  
