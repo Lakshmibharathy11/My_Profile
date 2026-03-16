@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Lakshmi Bharathy Kumar  
 
 Data Science graduate student at San José State University, focused on machine learning, analytics, and AI-driven solutions. I build projects in Python, SQL, deep learning, and data visualization, with interests in predictive modeling and intelligent systems.
+
 ---
 
 ## 🎓 Education  
