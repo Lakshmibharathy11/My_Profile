@@ -6,7 +6,7 @@ Data Science graduate student at San José State University, focused on machine 
 
 ## 🎓 Education  
 
-**M.S. Applied Data Intelligence, San Jose State University, CA (Aug 2024 – May 2026, expected)**  
+**M.S. Applied Data Intelligence, San Jose State University, CA (Graduated on May 2026)**  
 - Coursework: Machine Learning, Deep Learning, GenAI, Big Data Analytics, Database Systems  
 
 **B.E. Electronics & Communication, Saranathan College of Engineering, India (May 2014)**  
@@ -16,7 +16,7 @@ Data Science graduate student at San José State University, focused on machine 
 
 ## 🧪 Research & Academic Projects  
 
-🔹 **Graduate Thesis (Ongoing)**  
+🔹 **Graduate Thesis**  
 - Designing and evaluating machine learning and deep learning models to predict directional intent from eye-tracking
 data for autonomous control applications.
 - Conducting rigorous evaluation using accuracy, precision, recall, F1-score, and confusion matrix on held-out test
